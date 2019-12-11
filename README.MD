@@ -1,11 +1,11 @@
 # Fork this project
 
-## CLone and download
-
 ## Do the following
 
 ```cmd
-cd djdemo
+mkdir djangoproject
+git clone --this project url
+cd djangoproject
 python -m venv newvenv
 cd newvenv
 cd scripts
